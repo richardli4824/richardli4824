@@ -1,7 +1,8 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 - 🌱 I’m currently learning Angular, .Net Core, Docker & Kubernetes
 - ⚡ Fun fact: ...
+-->
 
 <!--
 **richardli4824/richardli4824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
